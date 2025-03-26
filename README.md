@@ -1,19 +1,17 @@
 # Hi 👋 I'm Yajnesh AT.
+ <a href="https://www.linkedin.com/in/yajnesh06"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yajnesh06"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
+ 
   
-</p>
+
 
 ---
 
 ## 📜 About Me:
 
-- ## 📌 About Me:
 - 🚀 I'm a Web developer passionate about building interactive web applications.
 - 🤖 Currently working on AI-integrated projects.
 - 📡 Exploring full-stack development, APIs, and web scraping for real-world problem-solving.
-
 
 ---
 
@@ -35,10 +33,8 @@
 </p>
 
 ---
-
-
 ## 📫 Connect with me:
 
-- 🌍 Portfolio: [yourwebsite.com](htttps://yajneshponnappa.vercel.app
+- 🌍 Portfolio: htttps://yajneshponnappa.vercel.app
 - 📧 Email: `yajnuponnappa@gmail.com`
 
