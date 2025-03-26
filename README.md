@@ -29,19 +29,12 @@
 ## 🚀 Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,supabase,graphql,docker,aws,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,restapi,postgresql,supabase,docker,aws,git" />
+
 </p>
 
 ---
 
-## 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yajnesh06&show_icons=true&theme=dark" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yajnesh06&repo=your-repo&theme=dark" width="48%"/>
-</p>
-
----
 
 ## 📫 Connect with me:
 
