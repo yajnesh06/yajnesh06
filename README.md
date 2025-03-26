@@ -19,7 +19,7 @@
 ## 🔥 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajnesh06&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajnesh06&layout=compact&theme=dark" width="30%" />
 </p>
 
 ---
