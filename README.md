@@ -10,18 +10,19 @@
 
 ## 📜 About Me:
 
-- 🔭 I am a Tech Lead, Full Stack Developer, and Open Source Enthusiast.
-- 💼 Working as a **Senior IT Consultant** and building large-scale web applications.
-- ✍️ I author blogs on emerging technologies.
-- 🎤 Share knowledge through meetups and Twitter.
+- ## 📌 About Me:
+- 🚀 I'm a Web developer passionate about building interactive web applications.
+- 🤖 Currently working on AI-integrated projects.
+- 📡 Exploring full-stack development, APIs, and web scraping for real-world problem-solving.
+
 
 ---
 
 ## 🔥 My Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajnesh06&layout=compact&theme=dark" width="48%"/>
+ 
 </p>
 
 ---
