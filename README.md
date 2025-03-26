@@ -29,7 +29,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,restapi,postgresql,supabase,docker,aws,git" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,sql,postgresql,supabase,docker,aws,git" />
+
 
 </p>
 
