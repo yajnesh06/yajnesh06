@@ -30,7 +30,7 @@
 class Developer:
     def __init__(self):
         self.name = "Yajnesh AT 👨‍💻"
-        self.role = "Web Develope🚀""
+        self.role = "Web Developer🚀""
         self.love = "AI, Movies, Travel 🤖"
         self.location = "Bengaluru 🌎"
 
